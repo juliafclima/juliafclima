@@ -1,27 +1,22 @@
-<!--
+# Oie, me chamo Júlia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bem vindo ao meu perfil GitHub 👋
 
-# Bem-vindo(a)!
+:computer: Eu sou uma desenvolvedora Full-Stack!
 
-## Eu sou a Julia!
+:house_with_garden: Moro no Brasil!
 
-:computer: I'm Full Stack Developer!
+:dog: Tenho 1 cachorra que se chama Nina!
 
-:house_with_garden: I’m from Brazil.
+:video_game: Amo jogar vídeo-game!
  
-## About me
+## Sobre mim
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/juliafclima/)
+(https://www.linkedin.com/in/juliafclima/)
 
-- Thanks for visiting.
+## Ferramentas e tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+- Obrigada pela visita!
 
 - Enjoy it!! o/
