@@ -11,8 +11,7 @@
 :video_game: Amo jogar vídeo-game!
  
 ## Sobre mim
-
-(https://www.linkedin.com/in/juliafclima/)
+<a href="https://www.linkedin.com/in/juliafclima/">LinkedIn</a>   
 
 ## Ferramentas e tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
