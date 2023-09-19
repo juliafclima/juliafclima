@@ -1,9 +1,4 @@
-### Hi there 👋
-
 <!--
-**juliafclima/juliafclima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bem-vindo(a)!
+
+## Eu sou a Julia!
+
+:computer: I'm Full Stack Developer!
+
+:house_with_garden: I’m from Brazil.
+ 
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/juliafclima/)
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
