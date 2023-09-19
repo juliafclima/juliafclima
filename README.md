@@ -15,7 +15,7 @@
 (https://www.linkedin.com/in/juliafclima/)
 
 ## Ferramentas e tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
           
 - Obrigada pela visita!
 
