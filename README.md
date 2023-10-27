@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-:computer: Sou uma desenvolvedora Full-Stack!
+:computer: Desenvolvedora Full-Stack!
 
 :student: Estudante de Sistemas da Informação na Universidade Estácio de Sá
 
