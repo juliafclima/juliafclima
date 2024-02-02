@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74710&center=true&random=false&width=435&lines=Oie%2C+me+chamo+J%C3%BAlia!+;Bem-vindo(a)+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## Sobre mim 👩‍💻
-:computer: Desenvolvedora Full-Stack!
+:computer: Desenvolvedora Front-End!
 
 :student: Estudante de Sistemas da Informação na Universidade Estácio de Sá
 
