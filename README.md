@@ -16,14 +16,15 @@ Iniciei meu contato com a computação em um curso de Montagem e Manutenção de
 Possuo conhecimento em:
 - Lógica de Programação
 - HTML5, CSS3, JavaScript, TypeScript
+- Node.js e Node Package Manager
 - Versionamento de código (Git e Github)
 - Banco de Dados (PostgreSQL)
 - Programação Orientada a Objetos (Java)
+- API RESTful (Spring Boot)
 - Python
 - Modelagem de Sistemas e Estrutura de Dados
 - Linguagem Unificada de Modelagem (UML)    
 - Métodos Ágeis (Scrum e Kanban)
-
 
 ## Conecte-se comigo 📫
 <a href="https://www.linkedin.com/in/juliafclima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
