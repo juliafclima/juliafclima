@@ -13,17 +13,17 @@ Entusiasta de tecnologia em busca de conhecimentos!
 
 Iniciei meu contato com a computação em um curso de Montagem e Manutenção de computadores terminado em junho/2015. Desde então venho me desafiando nesse mundo de possibilidades que é a programação.
 
-Conhecimento em:
+Possuo conhecimento em:
 - Lógica de Programação
-- Programação Web
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, TypeScript
+- Versionamento de código (Git e Github)
 - Banco de Dados (PostgreSQL)
-- POO (Java)
+- Programação Orientada a Objetos (Java)
 - Python
 - Modelagem de Sistemas e Estrutura de Dados
-- Git e Github
-- Linguagem Unificada de Modelagem (UML)
-- Métodos Ágeis
+- Linguagem Unificada de Modelagem (UML)    
+- Métodos Ágeis (Scrum e Kanban)
+
 
 ## Conecte-se comigo 📫
 <a href="https://www.linkedin.com/in/juliafclima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
