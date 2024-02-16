@@ -19,7 +19,7 @@ Possuo conhecimento em:
 - Programação Orientada a Objetos (Java)
 - Python
 - API RESTful (Spring Boot)
-- Node.js e Node Package Manager
+- Node.js 
 - Banco de Dados (PostgreSQL)
 - Versionamento de código (Git e Github)
 - Linguagem Unificada de Modelagem (UML)
