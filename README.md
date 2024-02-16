@@ -14,16 +14,15 @@ Entusiasta de tecnologia em busca de conhecimentos!
 Iniciei meu contato com a computação em um curso de Montagem e Manutenção de computadores terminado em junho/2015. Desde então venho me desafiando nesse mundo de possibilidades que é a programação.
 
 Possuo conhecimento em:
-- Lógica de Programação
 - HTML5, CSS3, JavaScript, TypeScript
-- Node.js e Node Package Manager
-- Versionamento de código (Git e Github)
-- Banco de Dados (PostgreSQL)
+- Frameworks (React, React Native, Angular)
 - Programação Orientada a Objetos (Java)
-- API RESTful (Spring Boot)
 - Python
-- Modelagem de Sistemas e Estrutura de Dados
-- Linguagem Unificada de Modelagem (UML)    
+- API RESTful (Spring Boot)
+- Node.js e Node Package Manager
+- Banco de Dados (PostgreSQL)
+- Versionamento de código (Git e Github)
+- Linguagem Unificada de Modelagem (UML)
 - Métodos Ágeis (Scrum e Kanban)
 
 ## Conecte-se comigo 📫
