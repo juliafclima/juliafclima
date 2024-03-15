@@ -3,7 +3,7 @@
 ## Sobre mim 👩‍💻
 :computer: Desenvolvedora Front-End!
 
-:student: Estudante de Sistemas da Informação na Universidade Estácio de Sá
+:student: Estudante de Sistemas da Informação na Universidade Estácio de Sá no 7º período.
 
 :house_with_garden: Moro no interior do Rio de Janeiro em uma cidade chamada Petrópolis!
 
