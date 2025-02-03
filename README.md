@@ -18,12 +18,13 @@ Possuo conhecimento em:
 - Versionamento de código (Git e Github)
 - Linguagem Unificada de Modelagem (UML)
 - Métodos Ágeis (Scrum e Kanban)
+- Testes unitários
 
 Entusiasta de tecnologia em busca de conhecimentos! 
 
 ## Conecte-se comigo 📫
 <a href="https://www.linkedin.com/in/juliafclima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://projeto-portfolio-ruddy.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](juliafclima.software)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:juliafclima@hotmail.com)
 
 ## Linguagens - Frameworks - Tecnologias - Ferramentas ✏️
