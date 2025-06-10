@@ -24,7 +24,7 @@ Entusiasta de tecnologia em busca de conhecimentos!
 
 ## Conecte-se comigo 📫
 <a href="https://www.linkedin.com/in/juliafclima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="juliafclima.software" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2" target="_blank"></a> 
+<a href="https://www.juliafclima.software/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2" target="_blank"></a> 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:juliafclima@hotmail.com)
 
 ## Linguagens - Frameworks - Tecnologias - Ferramentas ✏️
