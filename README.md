@@ -1,25 +1,28 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74710&center=true&random=false&width=435&lines=Oie%2C+me+chamo+J%C3%BAlia!+;Bem-vindo(a)+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## Sobre mim 👩‍💻
-:computer: Desenvolvedora Front-End!
+:computer: Desenvolvedora
 
-:student: Estudante de Sistemas da Informação na Universidade Estácio de Sá no 8º período.
+:student: Graduada de Sistemas da Informação na Universidade Estácio de Sá.
 
 :house_with_garden: Moro no interior do Rio de Janeiro em uma cidade chamada Petrópolis!
 
-Iniciei meu contato com a computação em um curso de Montagem e Manutenção de computadores terminado em junho/2015. Desde então venho me desafiando nesse mundo de possibilidades que é a programação. Em 2023, participei do programa de residência em TIC/Software oferecido pelo Parque Tecnológico Região Serrana/SERRATEC no curso de Desenvolvedor Full-Stack.
+Olá! Meu nome é Júlia Lima, tenho 24 anos e sou desenvolvedora. Moro no interior do Rio de Janeiro em uma cidade chamada Petrópolis, e sou formada na Universidade Estácio de Sá no curso de Sistemas de Informação.
+
+Iniciei meu contato com a computação em um curso de Montagem e Manutenção de computadores terminado em junho/2015. Desde então venho me desafiando nesse mundo de possibilidades que é a programação.
+
+Um dos meus últimos grandes projetos foi o desenvolvimento de uma aplicação web e mobile para um cliente internacional do setor Duty Free, voltada para a venda de produtos dentro de aeronaves.
 
 Possuo conhecimento em:
-- HTML, CSS, JavaScript, TypeScript
-- Frameworks (React, React Native)
-- Programação Orientada a Objetos (Java)
+- HTML, CSS, JavaScript e TypeScript
+- Frameworks (React, React Native, Next.js, TailwindCSS (Estilização) e Redux, Context API (Gerenciamento de estado))
+- Java
 - API RESTful (Spring Boot)
 - Banco de Dados (PostgreSQL e consultas SQL)
 - Versionamento de código (Git e Github)
-- Linguagem Unificada de Modelagem (UML)
 - Métodos Ágeis (Scrum e Kanban)
-- Testes unitários
-
+- Testes unitários (Jest)
+  
 Entusiasta de tecnologia em busca de conhecimentos! 
 
 ## Conecte-se comigo 📫
@@ -56,5 +59,5 @@ Obrigada pela visita!
 
 Enjoy it!! o//
   
- <p align="center" style="color:white">@2024 Júlia Lima</p>
+ <p align="center" style="color:white">@2025 Júlia Lima</p>
 </div>
