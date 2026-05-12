@@ -1,11 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74710&center=true&random=false&width=435&lines=Oie%2C+me+chamo+J%C3%BAlia!+;Bem-vindo(a)+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img
-   align="right"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafclima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-   alt="Github Stats"
-/>
-
 ## Sobre mim 👩‍💻
 ✨ Desenvolvedora **Full-Stack**  
 🎓 Graduada em **Sistemas da Informação** pela Universidade Estácio de Sá  
@@ -19,7 +13,7 @@
 
 Possuo conhecimento em:
 - HTML, CSS, JavaScript, TypeScript, Node.JS
-- Frameworks (React, React Native, Next.js, TailwindCSS (Estilização) e Redux, Context API (Gerenciamento de estado))
+- Frameworks (React, React Native, Next.js, Vue.js TailwindCSS (Estilização) e Redux, Context API (Gerenciamento de estado))
 - Java
 - API RESTful (Spring Boot)
 - Banco de Dados (PostgreSQL e consultas SQL)
@@ -38,6 +32,7 @@ Frontend:
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> 
 </div>
 
 Backend:
